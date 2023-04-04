@@ -12,9 +12,9 @@
 
 ## About me
 <div align="left">  
-*  🌍  I'm based in Russia
-*  🧠  Now I'm learning basic aspects of Java Script
-*  🖥️  See my portfolio at [github](https://github.com/lojaaaaa?tab=repositories)
+*  🌍  I'm based in Russia </br>
+*  🧠  Now I'm learning basic aspects of Java Script </br>
+*  🖥️  See my portfolio at [github](https://github.com/lojaaaaa?tab=repositories) </br>
 </div>
 </br>
 
