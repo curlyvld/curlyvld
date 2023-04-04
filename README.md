@@ -21,10 +21,8 @@
 
 
 ## Connect with me  
-<a href="https://www.github.com/curlyvld" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-<a href="https://instagram.com/https://instagram.com/curlyvld?igshid=YmMyMTA2M2Y=" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
+<a href="https://instagram.com/curlyvld" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="curlyvld" height="30" width="40" /></a>
+</p>
 <a href="https://t.me/fasgem" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/telegram-1.svg" width="32" height="32" /></a> 
 
 <br/>  
