@@ -14,7 +14,7 @@
  
 *  🌍  I'm based in Russia </br>
 *  🧠  Now I'm learning basic aspects of Java Script </br>
-*  🖥️  See my portfolio at [github](https://github.com/lojaaaaa?tab=repositories) </br>
+*  🖥️  See my portfolio at [github](https://github.com/curlyvld?tab=repositories) </br>
 
 </br>
 
