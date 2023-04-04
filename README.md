@@ -21,11 +21,9 @@
 
 
 ## Connect with me  
+<p align="left">
 <a href="https://instagram.com/curlyvld" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="curlyvld" height="30" width="40" /></a>
 </p>
-<a href="https://t.me/fasgem" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/telegram-1.svg" width="32" height="32" /></a> 
-
-<br/>  
 
 
 ## Github Stats  
