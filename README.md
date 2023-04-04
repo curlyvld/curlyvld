@@ -1,10 +1,11 @@
-
+<h1 align="center">Hi 👋, I'm Vladislav</h1>
+<h3 align="center">A beginner Web Developer</h3>
   
 
 <br/>  
 
 
-## My Skill Set  
+## My Skills 
 
 
 <div align="center">  
