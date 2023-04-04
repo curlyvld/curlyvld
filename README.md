@@ -10,6 +10,13 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
+## About me
+<div align="left">  
+* 🌍  I'm based in Russia
+* 🧠  Now I'm learning basic aspects of Java Script
+* 🖥️  See my portfolio at [github](http://github.com/curlyvld)
+
+</div>
 ## My Skills 
 
 
