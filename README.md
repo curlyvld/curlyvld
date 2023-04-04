@@ -34,6 +34,11 @@
 
 
 
+## Github Stats  
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=curlyvld&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) 
+</br>
+
 ## Connect with me  
 
                   
@@ -41,13 +46,3 @@
 <div align="left"><a href="https://discord.com/users/curlyvld" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>                 <a href="https://www.github.com/curlyvld" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a><a href="http://www.instagram.com/curlyvld" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a><a href="https://t.me/fasgem" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/telegram-1.svg" width="32" height="32" /></a></div>
 
 <br/>
-
-
-
-
-## Github Stats  
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=curlyvld&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) </br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=curlyvld&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-
