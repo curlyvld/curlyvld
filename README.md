@@ -47,7 +47,7 @@
 
 ## Github Stats  
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=curlyvld&theme=bear&border_radius=6&mode=weekly)](https://git.io/streak-stats)<br/>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=curlyvld&theme=bear&border_radius=6&mode=weekly)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=curlyvld&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
