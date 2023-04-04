@@ -18,7 +18,7 @@
 
 </br>
 
-## My languages
+## Top languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=curlyvld&theme=radical)](https://github.com/anuraghazra/github-readme-stats)</br>
 
