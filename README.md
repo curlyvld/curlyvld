@@ -27,7 +27,7 @@
 <a href="https://instagram.com/https://instagram.com/curlyvld?igshid=YmMyMTA2M2Y=" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
-  
+<a href="https://t.me/fasgem" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/telegram-1.svg" width="32" height="32" /></a> 
 
 <br/>  
 
