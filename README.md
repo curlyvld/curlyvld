@@ -38,10 +38,6 @@
 
 
 ## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=curlyvld&show_icons=true&count_private=true&hide_border=true" align="left" />  
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=curlyvld&hide_border=true&layout=compact" align="left" />  
-
-<br/>  
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=curlyvld&theme=bear&border_radius=6&mode=weekly)](https://git.io/streak-stats)
 
 
