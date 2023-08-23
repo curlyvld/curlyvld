@@ -12,9 +12,8 @@
 
 ## About me
  
-*  🌍  I'm based in Russia </br>
 *  🧠  Now I'm learning basic aspects of Java Script </br>
-*  🖥️  See my portfolio at [github](https://github.com/curlyvld?tab=repositories) </br>
+
 
 </br>
 
@@ -39,6 +38,6 @@
 
                   
                   
-<div align="left"><a href="https://discord.com/users/curlyvld" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>                 <a href="https://www.github.com/curlyvld" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a><a href="http://www.instagram.com/curlyvld" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a></div>
+<div align="left"><a href="http://www.instagram.com/curlyvld" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a></div>
 
 <br/>
