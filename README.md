@@ -7,15 +7,11 @@
 
 ## About me
  
-*  🧠  Now I'm learning basic aspects of Java Script </br>
+
 
 </br>
 
-## Top languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=curlyvld&theme=radical)](https://github.com/anuraghazra/github-readme-stats)</br>
-
-<br/>  
 
 ## My socials  
             
